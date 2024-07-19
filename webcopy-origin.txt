@@ -1,0 +1,388 @@
+Uri: http://ch10837-wordpress-oftwx.tw1.ru/wp-content/uploads/2024/07/smart_crop_516x290.png
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\uploads\2024\07\smart_crop_516x290.png
+Content Type: image/png
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\index.htm
+Content Type: text/html
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/comments/feed/
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/feed/
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/all-products-frontend.js?ver=34225df31c9fc4fb4ad9
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\all-products-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/all-products.css?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\all-products.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/blocks-components.js?ver=211abb6906805368a551
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\blocks-components.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/packages-style.css?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\packages-style.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/price-format.js?ver=eb7a7398126f71912b09
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\price-format.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-image-frontend.js?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-image-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-image.css?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-image.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-price-frontend.js?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-price-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-rating-frontend.js?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-rating-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-rating.css?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-rating.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-title-frontend.js?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-title-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/product-title.css?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\product-title.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=3b21c127321dcdffaeba
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-data.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-middleware.js?ver=ca04183222edaf8a26be
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-middleware.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-registry.js?ver=1c879273bd5c193cad0a
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-registry.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-shared-context.js?ver=6eb6865831aa5a75475d
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-shared-context.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-shared-hocs.js?ver=4f21a9f43ea5bfa7f02e
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-shared-hocs.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-vendors-frontend.js?ver=cbe41c7abb3949767748
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-vendors-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-settings.js?ver=07c2f0675ddd247d2325
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-settings.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/client/blocks/wc-types.js?ver=bda84b1be3361607d04a
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\client\blocks\wc-types.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-blocktheme.css?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\css\woocommerce-blocktheme.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\fonts\cardo_normal_400.woff2
+Content Type: application/font-woff2
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: application/font-woff2
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: application/font-woff
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff2
+Content Type: application/font-woff2
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/plugins/yith-woocommerce-catalog-mode/assets/css/frontend.min.css?ver=2.36.0
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\plugins\yith-woocommerce-catalog-mode\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/assets/fonts/sora/normal_400.ttf
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\assets\fonts\sora\normal_400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/assets/fonts/sora/normal_500.ttf
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\assets\fonts\sora\normal_500.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/assets/fonts/sora/normal_600.ttf
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\assets\fonts\sora\normal_600.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/assets/fonts/sora/normal_700.ttf
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\assets\fonts\sora\normal_700.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/assets/images/quote.svg
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\assets\images\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/assets/js/functions.js?ver=1.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\assets\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/themes/prime-fse/style.css?ver=1.1.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\themes\prime-fse\style.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/uploads/2024/07/smart_crop_516x290-300x169.png
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\uploads\2024\07\smart_crop_516x290-300x169.png
+Content Type: image/png
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-content/uploads/2024/07/smart_crop_516x290.png
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-content\uploads\2024\07\smart_crop_516x290-1.png
+Content Type: image/png
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/blocks/cover/style.min.css?ver=6.6
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\blocks\cover\style.min.css
+Content Type: text/css
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\a11y.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/api-fetch.min.js?ver=4c185334c5ec26e149cc
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/autop.min.js?ver=9fb50649848277dd318d
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\autop.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/components.min.js?ver=36b97398bf090476214e
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\components.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/compose.min.js?ver=b8d54449305350b51869
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\compose.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/data-controls.min.js?ver=49f5587e8b90f9e7cc7e
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\data-controls.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/data.min.js?ver=7c62e39de0308c73d50c
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\data.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/date.min.js?ver=aaca6387d1cf924acc51
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\date.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/deprecated.min.js?ver=e1f84915c5e8ae38964c
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\deprecated.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/dom.min.js?ver=4ecffbffba91b10c5c7a
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\dom.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/element.min.js?ver=cb762d190aebbec25b27
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\element.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\escape-html.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/html-entities.min.js?ver=2cd3358363e0675638fb
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\html-entities.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/is-shallow-equal.min.js?ver=e0f9f1d78d83f5196979
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/keycodes.min.js?ver=034ff647a54b018581d3
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\keycodes.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/notices.min.js?ver=673a68a7ac2f556ed50b
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\notices.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/primitives.min.js?ver=aef2543ab60c8c9bb609
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\primitives.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/priority-queue.min.js?ver=9c21c957c7e50ffdbf48
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/private-apis.min.js?ver=17a2e640b653d742da6e
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\private-apis.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/redux-routine.min.js?ver=a0a172871afaeb261566
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/rich-text.min.js?ver=4021b9e4e9ef4d3cd868
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\rich-text.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/style-engine.min.js?ver=86ba6721a03e5b921dfe
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\style-engine.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/url.min.js?ver=36ae0e4dd9043bb8749b
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\url.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/vendor/react-jsx-runtime.min.js?ver=18.3.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\vendor\react-jsx-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/warning.min.js?ver=ed7c8b0940914f4fe44b
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\warning.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/dist/wordcount.min.js?ver=55d8c2bf3dc99e7ea5ec
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\dist\wordcount.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/wp-json/
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://ch10837-wordpress-oftwx.tw1.ru/xmlrpc.php?rsd
+File Name: C:\Users\user\Desktop\ауацу\ch10837-wordpress-oftwx.tw1.ru\xmlrpc.php
+Content Type: text/xml
+
